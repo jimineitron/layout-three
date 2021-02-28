@@ -1,0 +1,12 @@
+@import "_reset.scss";
+@import "_header.scss";
+@import "_main.scss";
+@import "_aside.scss";
+@import "_footer.scss";
+
+.content {
+  font-size: 10px;
+  background: rgb(207, 20, 20);
+  width: 100px;
+  height: 100px;
+}
